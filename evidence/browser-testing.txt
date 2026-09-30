@@ -1,0 +1,27 @@
+Assessment 3 responsive website checks
+2026-09-30T16:47:09+10:00
+Browser: Chromium (Playwright)
+
+PASS mobile 390px index.html: responsive layout, images and navigation
+PASS mobile 390px about.html: responsive layout, images and navigation
+PASS mobile 390px programmes.html: responsive layout, images and navigation
+PASS mobile 390px gallery.html: responsive layout, images and navigation
+PASS mobile 390px contact.html: responsive layout, images and navigation
+PASS contact form required-field and valid-data checks
+PASS tablet 768px index.html: responsive layout, images and navigation
+PASS tablet 768px about.html: responsive layout, images and navigation
+PASS tablet 768px programmes.html: responsive layout, images and navigation
+PASS tablet 768px gallery.html: responsive layout, images and navigation
+PASS tablet 768px contact.html: responsive layout, images and navigation
+PASS desktop 1440px index.html: responsive layout, images and navigation
+PASS desktop 1440px about.html: responsive layout, images and navigation
+PASS desktop 1440px programmes.html: responsive layout, images and navigation
+PASS desktop 1440px gallery.html: responsive layout, images and navigation
+PASS desktop 1440px contact.html: responsive layout, images and navigation
+PASS small-mobile 320px index.html: responsive layout, images and navigation
+PASS small-mobile 320px about.html: responsive layout, images and navigation
+PASS small-mobile 320px programmes.html: responsive layout, images and navigation
+PASS small-mobile 320px gallery.html: responsive layout, images and navigation
+PASS small-mobile 320px contact.html: responsive layout, images and navigation
+
+External Google Maps embed blocked during automated checks. Contact form not submitted.
